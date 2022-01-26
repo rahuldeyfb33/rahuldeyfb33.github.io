@@ -58,4 +58,4 @@ Key Responsibilities:
 
 ### INTERESTS
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures.
+My interest are Sports, Astrophysics, Cryptocurrencies, Music, Movies, Anime and Latest Tech
