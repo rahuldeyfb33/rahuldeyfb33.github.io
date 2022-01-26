@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/rahuldeyfb33/rahuldeyfb33.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I have 4 years of experience in IT Industry, having worked closely with Big Data Technologies-Spark(Core, SQL, Streaming). Developed highly scalable Data Pipelines which are hosted on AWS EMR and on-premise Hadoop clusters. Programmed applications in languages involving Scala, Python and SQL and have good understanding of Hadoop ecosystem i.e. HDFS, Hive, Sqoop and Apache Kakfa. I have Hands-on experience with AWS services including S3, Glacier, Redshift, Athena, Lambda, Step Function, QuickSight, Elastic MapReduce, Glue, CloudWatch, EC2, RDS, IAM. Developed a Central Logging and Monitoring System using ELK stack(Elasticsearch,Logstash,Filebeat and Kibana) to monitor data pipelines across different Hadoop Clusters. Developed a Real Estate web application using Python’s Framework Django. I have been involved in analysis, design, development, testing, implementation and maintenance with timely delivery against set deadlines.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png" alt="html" width="90" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/8/85/Scala_logo.png' alt="css" width="110" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg' alt="css" width="150" height="40">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="react" width="auto" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" alt="angular" width="120" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="angular" width="100" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="angular" width="100" height="40"/>
+</p>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+### **DATA ENGINEER**
+### BOSCH
 
-1. Numbered
-2. List
+Key Responsibilities:
+• Developing Spark applications in Scala for processing streaming data and loading it to Hive.
+• Tuning performance of Spark jobs to complete data processing within desired time interval.
+• Generalizing the solution such that the jobs work in different clusters.
+• Developing UNIX/python scripts for deployment and scheduling Spark jobs in clusters.
+• Rolling out & setting up data pipelines for Production plants.
+• Creating and maintaining Databases in MPP SQL query engine Impala.
+• Automating response plans for the Incidents raised by the Data Analyst Team.
+• Creating a monitoring and alerting system using Elastic stack for critical data pipelines.
+• Implementing new methodology to the existing data pipelines to improve performance.
+• Conducting regular knowledge sharing sessions on System Architecture for new stakeholders.
+• Coordination/Collaboration with central teams for tasks and standards.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### **ASSOCIATE DATA ENGINEER**
+### ATTRA
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+• Designing the process flow of ETL.
+• Developing Spark Application for Initial and Incremental Batch Load.
+• Collaborating with data science and business teams to improve data models that feed business intelligence tools.
+• Develop tools to improve data flows between external system and data warehouse.
+• Work closely with all business units and engineering teams to develop strategy for long term data platform architecture.
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahuldeyfb33/rahuldeyfb33.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Education
 
-### Support or Contact
+### **Visvesvaraya Technological University (VTU)**
+### B.E. in Electronics and Communcation Engineering (2012- 2016)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+---
+
+### INTERESTS
+
+I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures.
