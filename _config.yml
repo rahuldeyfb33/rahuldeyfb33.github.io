@@ -1,11 +1,11 @@
 title: Rahul Dey # your name (or website title) here
 logo: "/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- Data Engineer
+ <br><br>Data Engineer<br><br>
   <br><br>
   <a href="mailto:rahuldey40@outlook.com">rahuldey40@outlook.com </a>
   <br>
-  <a href="https://www.linkedin.com/in/rahul-dey-1960a919b/">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/rahul-dey-1960a919b/">LinkedIn</a>
   <br>
   <a href="https://github.com/rahuldeyfb33/">Gihub</a> 
 theme: jekyll-theme-minimal
