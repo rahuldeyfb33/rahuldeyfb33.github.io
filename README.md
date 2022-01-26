@@ -20,8 +20,8 @@ I have 4 years of experience in IT Industry, having worked closely with Big Data
 
 ## Experience
 
-### **DATA ENGINEER**
-### BOSCH
+### **BOSCH**
+### Data Engineer | July, 2020 - Present
 
 Key Responsibilities:
 • Developing Spark applications in Scala for processing streaming data and loading it to Hive.
@@ -37,8 +37,8 @@ Key Responsibilities:
 • Coordination/Collaboration with central teams for tasks and standards.
 
 
-### **ASSOCIATE DATA ENGINEER**
-### ATTRA
+### **ATTRA**
+### Associate Data Engineer | July, 2017 - June, 2020
 
 • Designing the process flow of ETL.
 • Developing Spark Application for Initial and Incremental Batch Load.
