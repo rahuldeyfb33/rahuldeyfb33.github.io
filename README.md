@@ -23,28 +23,29 @@ I have 4 years of experience in IT Industry, having worked closely with Big Data
 ### **BOSCH**
 ### Data Engineer | July, 2020 - Present
 
-Key Responsibilities:
-• Developing Spark applications in Scala for processing streaming data and loading it to Hive.
-• Tuning performance of Spark jobs to complete data processing within desired time interval.
-• Generalizing the solution such that the jobs work in different clusters.
-• Developing UNIX/python scripts for deployment and scheduling Spark jobs in clusters.
-• Rolling out & setting up data pipelines for Production plants.
-• Creating and maintaining Databases in MPP SQL query engine Impala.
-• Automating response plans for the Incidents raised by the Data Analyst Team.
-• Creating a monitoring and alerting system using Elastic stack for critical data pipelines.
-• Implementing new methodology to the existing data pipelines to improve performance.
-• Conducting regular knowledge sharing sessions on System Architecture for new stakeholders.
-• Coordination/Collaboration with central teams for tasks and standards.
+Key Responsibilities:<br>
+• Developing Spark applications in Scala for processing streaming data and loading it to Hive.<br>
+• Tuning performance of Spark jobs to complete data processing within desired time interval.<br>
+• Generalizing the solution such that the jobs work in different clusters.<br>
+• Developing UNIX/python scripts for deployment and scheduling Spark jobs in clusters.<br>
+• Rolling out & setting up data pipelines for Production plants.<br>
+• Creating and maintaining Databases in MPP SQL query engine Impala.<br>
+• Automating response plans for the Incidents raised by the Data Analyst Team.<br>
+• Creating a monitoring and alerting system using Elastic stack for critical data pipelines.<br>
+• Implementing new methodology to the existing data pipelines to improve performance.<br>
+• Conducting regular knowledge sharing sessions on System Architecture for new stakeholders.<br>
+• Coordination/Collaboration with central teams for tasks and standards.<br>
 
 
 ### **ATTRA**
 ### Associate Data Engineer | July, 2017 - June, 2020
 
-• Designing the process flow of ETL.
-• Developing Spark Application for Initial and Incremental Batch Load.
-• Collaborating with data science and business teams to improve data models that feed business intelligence tools.
-• Develop tools to improve data flows between external system and data warehouse.
-• Work closely with all business units and engineering teams to develop strategy for long term data platform architecture.
+Key Responsibilities:<br>
+• Designing the process flow of ETL.<br>
+• Developing Spark Application for Initial and Incremental Batch Load.<br>
+• Collaborating with data science and business teams to improve data models that feed business intelligence tools.<br>
+• Develop tools to improve data flows between external system and data warehouse.<br>
+• Work closely with all business units and engineering teams to develop strategy for long term data platform architecture.<br>
 
 ---
 
