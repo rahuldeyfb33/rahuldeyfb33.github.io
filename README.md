@@ -1,6 +1,10 @@
 ## Portfolio
 
-I have 4 years of experience in IT Industry, having worked closely with Big Data Technologies-Spark(Core, SQL, Streaming). Developed highly scalable Data Pipelines which are hosted on AWS EMR and on-premise Hadoop clusters. Programmed applications in languages involving Scala, Python and SQL and have good understanding of Hadoop ecosystem i.e. HDFS, Hive, Sqoop and Apache Kakfa. I have Hands-on experience with AWS services including S3, Glacier, Redshift, Athena, Lambda, Step Function, QuickSight, Elastic MapReduce, Glue, CloudWatch, EC2, RDS, IAM. Developed a Central Logging and Monitoring System using ELK stack(Elasticsearch,Logstash,Filebeat and Kibana) to monitor data pipelines across different Hadoop Clusters. Developed a Real Estate web application using Python’s Framework Django. I have been involved in analysis, design, development, testing, implementation and maintenance with timely delivery against set deadlines.
+Data Engineer with **8+ years of experience** building scalable data platforms and solving complex data engineering problems. Experienced in designing and developing **high-performance batch and real-time data pipelines** deployed on **on-premise Hadoop ecosystems as well as cloud platforms like AWS and Azure**.
+
+Strong expertise in **Big Data technologies, distributed data processing, streaming systems, and cloud-native data architectures**. Proven ability to work across **analysis, design, development, testing, implementation, and maintenance** of enterprise-grade data engineering solutions while delivering projects within strict timelines.
+
+Comfortable working **independently and owning end-to-end systems**, while collaborating closely with **engineering teams, business stakeholders, and platform teams** in Agile environments.
 
 ---
 
@@ -16,12 +20,61 @@ I have 4 years of experience in IT Industry, having worked closely with Big Data
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="angular" width="100" height="40"/>
 </p>
 
+## 🛠 Technical Skillset
+
+**Programming Languages:** Python, SQL, Scala, Shell Scripting
+
+**Big Data & Data Engineering:** Hadoop, Apache Spark (Batch & Streaming), PySpark, Hive, Impala, Hue, HDFS, Cloudera, Apache Kafka
+
+**Elastic Stack:** Elasticsearch, Logstash, Kibana, Beats
+
+**AWS:** S3, EMR, Redshift, Lambda, CloudWatch, Glue, Data Migration Service (DMS), Athena, RDS, Lake Formation, ECS
+
+**Azure:** Data Factory, Data Lake Gen2, Blob Storage, Databricks, Log Analytics
+
+**Generative AI:** LangChain, LangGraph
+
+**Automation / Infrastructure:** Docker, Terraform, Azure Bicep, Jenkins
+
+**Workflow Orchestration:** Airflow, Control-M
+
+**Development Tools:** PyCharm, IntelliJ, VS Code, Jupyter Notebook
+
+**Version Control & Documentation:** GitHub, BitBucket, JIRA, Confluence
+
 ---
 
 ## Experience
 
+---
+
+### **JP Morgan & Chase co.**
+### Data Engineer III  | Dec, 2022 - Present
+
+Key Responsibilities:<br>
+• Scaled PySpark pipelines to process up to **40–50GB workloads on AWS EMR**, achieving a consistent **1.5–2 hour processing window** through memory tuning.<br>
+• Revamped the **PySpark Wrapper Framework**, modernizing ingestion, archival, and transformation layers to improve maintainability and performance.<br>
+• Optimized the **Kafka Streaming Framework**, enabling end-to-end data flow from CREAM Kafka topics to S3 raw buckets for real-time enterprise data availability.<br>
+• Developed **end-to-end data pipelines for 100+ critical CRE tables**, resolving cross-system inconsistencies to maintain a **Single Source of Truth**.<br>
+• Maintained **99.9% SLA** for mission-critical Airflow jobs ingesting data into the Enterprise Data Hub (EDH) across banking domains including **KYC, Finance, Sales, Marketing and WLS**.<br>
+• Led **Production Release Coordination** for CRE JIRA stories, ensuring seamless weekend deployments through rigorous pre-flight checks and stakeholder alignment.<br>
+• Resolved complex **ServiceNow incidents related to Kafka streaming and reference data**, ensuring uninterrupted analytics and reporting pipelines.<br>
+• Enhanced pipeline robustness by **patching the PySpark wrapper framework** to handle edge-case data corruption identified during validation phases.<br>
+• Optimized **EMR driver and executor configurations**, improving cluster efficiency and reducing AWS infrastructure costs for batch workloads.<br>
+• Collaborated with cross-platform teams to onboard **CREAM Kafka topics into the enterprise streaming framework**, resolving complex AVRO schema compatibility issues.<br>
+• Built a **Python-based Data Validation Framework** to compare Redshift and Impala datasets ensuring **100% data integrity during EDH migration from On-Prem Hadoop to AWS**.<br>
+• Enhanced the **AWS Acceleration Framework** to support files larger than **5GB**, nested partitions, and backdated partition reloads.<br>
+• Architected **Reverse Sync capability (AWS → On-Prem)** for Credit domain workflows, reducing runtime from **2 hours to 20 minutes (85% improvement)**.<br>
+• Designed an **Airflow-driven ETL framework** for multi-source ingestion into S3 with idempotent Redshift hydration and retry mechanisms.<br>
+• Led the **decommissioning and migration of 350+ on-premise tables to AWS**, validating metadata and ingestion pipelines.<br>
+• Optimized **AWS Lambda and Glue partition refresh processes**, preventing API throttling and significantly reducing production failures.<br>
+• Developed a **custom Python logging framework (log4j-style)** published to internal PyPI enabling distributed request tracing across microservices and LLM agents.<br>
+• Built a **LangGraph-based agent orchestration framework** supporting human-in-the-loop workflows, conditional execution, parallel processing, persistent memory, and streaming responses.<br>
+
+---
+
 ### **BOSCH**
-### Data Engineer | July, 2020 - Present
+### Data Engineer | July, 2020 - Dec, 2022
 
 Key Responsibilities:<br>
 • Developing Spark applications in Scala for processing streaming data and loading it to Hive.<br>
@@ -36,6 +89,7 @@ Key Responsibilities:<br>
 • Conducting regular knowledge sharing sessions on System Architecture for new stakeholders.<br>
 • Coordination/Collaboration with central teams for tasks and standards.<br>
 
+---
 
 ### **ATTRA**
 ### Associate Data Engineer | July, 2017 - June, 2020
@@ -59,4 +113,4 @@ Key Responsibilities:<br>
 
 ### INTERESTS
 
-My interest are Sports, Astrophysics, Cryptocurrencies, Music, Movies, Anime and Latest Tech
+My interest are Sports, Astrophysics, Music, Movies and Latest Tech
