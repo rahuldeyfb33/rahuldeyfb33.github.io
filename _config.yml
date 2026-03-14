@@ -1,14 +1,15 @@
-title: Rahul Dey # your name (or website title) here
-logo: "/profile.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
- <div style="text-align: center; border: 2px solid #ddd; padding: 20px; margin: 20px;">
- <br>
- Data Engineer<br>
- <br><br>
- <a href="mailto:rahuldey40@outlook.com">rahuldey40@outlook.com </a>
- <br>
- <a href="https://www.linkedin.com/in/rahul-dey-1960a919b/">LinkedIn</a>
- <br>
- <a href="https://github.com/rahuldeyfb33/">Gihub</a>
+title: Rahul Dey
+logo: "/profile.png?raw=true"
+
+description: >
+ <div class="profile-details">
+ <strong>Data Engineer</strong><br><br>
+ 
+ <a href="mailto:rahuldey40@outlook.com">rahuldey40@outlook.com</a><br>
+ 
+ <a href="https://www.linkedin.com/in/rahul-dey-1960a919b/">LinkedIn</a><br>
+ 
+ <a href="https://github.com/rahuldeyfb33/">GitHub</a>
  </div>
+
 theme: jekyll-theme-minimal
